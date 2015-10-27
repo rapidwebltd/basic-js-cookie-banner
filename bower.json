@@ -1,0 +1,25 @@
+{
+  "name": "basic-js-cookie-banner",
+  "main": "basic-js-cookie-banner.js",
+  "version": "0.0.0",
+  "homepage": "https://github.com/rapidwebltd/basic-js-cookie-banner",
+  "authors": [
+    "Jordan Hall <jordan.hall@rapidweb.biz>"
+  ],
+  "description": "A basic JavaScript cookie banner (implied consent)",
+  "keywords": [
+    "cookie",
+    "banner",
+    "consent",
+    "js",
+    "consent"
+  ],
+  "license": "LGPL3",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
