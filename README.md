@@ -1,4 +1,4 @@
-# basic-js-cookie-banner
+# Basic JS Cookie Banner
 A basic JavaScript cookie banner (implied consent)
 
 ## Screenshot
