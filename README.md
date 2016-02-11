@@ -17,7 +17,7 @@ Can be installed via bower.
 `bower install basic-js-cookie-banner`
 
 ## Usage
-First, include the CSS file in the bottom of the <head>: (...or import it via LESS)
+First, include the CSS files in the bottom of the `<head>`: (...or import it via LESS)
 ```html
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
 <link rel="stylesheet" href="basic-js-cookie-banner.css">
