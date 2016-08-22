@@ -14,7 +14,7 @@ A basic JavaScript cookie banner (implied consent)
 
 Can be installed via bower.
 
-`bower install basic-js-cookie-banner`
+`bower install basic-js-cookie-banner --save`
 
 ## Usage
 First, include the CSS files in the bottom of the `<head>`: (...or import it via LESS)
